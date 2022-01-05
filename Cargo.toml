@@ -1,0 +1,13 @@
+[package]
+name = "localhost"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/koenwoortman/localhost"
+repository = "https://github.com/koenwoortman/localhost"
+description = "A localhost server for local development"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
